@@ -71,6 +71,7 @@ namespace hotspot
 			tags.push_back( _nextTag );
 			_currentChromName = _nextChromName;
 			_numChromsProcessed++;
+			numLines++;
 			_hasMoreData = false;
 		}
 
