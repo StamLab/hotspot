@@ -1,3 +1,10 @@
+For v4.1.1
+----------
+
+This is a bug-fix release. A bug that caused early-termination on
+contigs with exactly one read has been found and squashed.
+
+
 For v4.1
 ---------
 
