@@ -565,7 +565,7 @@ namespace hotspot
 	{
 		if (argc < 2)
 		{
-			std::string msg  = "HotSpot5 Usage:";
+			std::string msg  = "HotSpot5 v4.1.1 Usage:";
 			msg += "\n    -range <int> <int> <int> (lower upper increment windows)";
 			msg += "\n    -densWin <int> (background window)";
 			msg += "\n    -minsd <float> (minimum for anomaly)";
